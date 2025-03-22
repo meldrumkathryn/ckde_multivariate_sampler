@@ -1,5 +1,7 @@
 # Point Simulation of Non-Parametric Multivariate Distributions with Conditional Kernel Density Estimation
 
+Author: Kathryn Meldrum (meldrumkathryn@gmail.com)
+
 **demo.ipynb**: demo file for how to use nonparametric_ckde local package
 
 **nonparametric_ckde:**
