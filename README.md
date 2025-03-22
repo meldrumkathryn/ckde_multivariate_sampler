@@ -6,8 +6,8 @@
 
 ckde.py: main sampler file
     
-kernels.py: helper file from (statsmodels)[https://github.com/statsmodels/statsmodels/blob/main/statsmodels/nonparametric/kernels.py]
+kernels.py: helper file from [statsmodels](https://github.com/statsmodels/statsmodels/blob/main/statsmodels/nonparametric/kernels.py)
     
-kernel_density.py: helper file from (statsmodels)[https://github.com/statsmodels/statsmodels/blob/main/statsmodels/nonparametric/kernel_density.py]
+kernel_density.py: helper file from [statsmodels](https://github.com/statsmodels/statsmodels/blob/main/statsmodels/nonparametric/kernel_density.py)
     
-_kernel_base.py: helper file from (statsmodels)[https://github.com/statsmodels/statsmodels/blob/main/statsmodels/nonparametric/_kernel_base.py]
+_kernel_base.py: helper file from [statsmodels](https://github.com/statsmodels/statsmodels/blob/main/statsmodels/nonparametric/_kernel_base.py)
